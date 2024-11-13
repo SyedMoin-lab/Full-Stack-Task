@@ -2,9 +2,9 @@ import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
-  name: "Syed Abdul Muqeeth",
-  initials: "Sammy",
-  url: "https://syedabdulmuqeeth.com",
+  name: "Syed Moinuddin - Portfolio",
+  initials: "Syed",
+  url: "https://syed-seven.vercel.app/",
   location: "Bengaluru, India",
   locationLink: "https://www.google.com/maps/place/Bengaluru",
   description:
