@@ -8,9 +8,9 @@ export const DATA = {
   location: "Bengaluru, India",
   locationLink: "https://www.google.com/maps/place/Bengaluru",
   description:
-    "Transitioning into a comma, Full stops? They're universally unloved.",
+    "Moving into a pause, full stops? Nobody’s a fan of those.",
   summary:
-    "Diving into Cosmology while learning Spline & Unreal Engine. Open to collaborations on Sass and always up for chats about Machine Learning, Quantum Computing, & Cybersecurity.",
+    "Exploring the mysteries of Cosmology while mastering Spline and Unreal Engine. Open for SaaS partnerships and always down for a good conversation on AI, Quantum Computing, and Cybersecurity.",
   avatarUrl: "/me.jpg",
   skills: [
   "React",
@@ -45,19 +45,19 @@ export const DATA = {
     { href: "/", icon: HomeIcon, label: "Home" }
   ],
   contact: {
-    email: "hello@example.com",
-    tel: "+123456789",
+    email: "syedmoinuddin106@gmail.com",
+    tel: "+91 9108041057",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/ungaaaabungaaa",
+        url: "",
         icon: Icons.github,
 
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/syed-abdul-muqeeth-8173a024b/",
+        url: "https://www.linkedin.com/in/syed-moinuddin106/",
         icon: Icons.linkedin,
         navbar: true,
       },
@@ -75,7 +75,7 @@ export const DATA = {
       },
       email: {
         name: "Send Email",
-        url: "mailto:syed_abdul_muqeeth@proton.me",
+        url: "mailto:syedmoinuddin106@gmail.com",
         icon: Icons.email,
         navbar: true,
       },
