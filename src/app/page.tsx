@@ -26,10 +26,10 @@ export default function Page() {
         <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000" />
         <meta name="msapplication-TileColor" content="#603cba" />
         <meta name="theme-color" content="#ffffff" />
-        <meta name="description" content="Syed Abdul Muqeeth's Portfolio - Showcasing innovative projects and creative work in web development, design, and technology." />
+        <meta name="description" content="Syed Moinuddin Portfolio - Showcasing innovative projects and creative work in web development, design, and technology." />
 
         {/* Open Graph Meta Tags */}
-        <meta property="og:title" content="Syed Abdul Muqeeth's Portfolio" />
+        <meta property="og:title" content="Syed Moinuddin" />
         <meta property="og:description" content="Showcasing innovative projects and creative work in web development, design, and technology." />
         <meta property="og:image" content="/og-image.jpg" />
         <meta property="og:url" content="https://syedabdulmuqeeth.com" />
