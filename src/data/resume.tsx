@@ -11,7 +11,7 @@ export const DATA = {
     "Moving into a pause, full stops? Nobody’s a fan of those.",
   summary:
     "Exploring the mysteries of Cosmology while mastering Spline and Unreal Engine. Open for SaaS partnerships and always down for a good conversation on AI, Quantum Computing, and Cybersecurity.",
-  avatarUrl: "/me.jpg",
+  avatarUrl: "/1011.jpg",
   skills: [
   "React",
   "Next.js",
@@ -23,7 +23,8 @@ export const DATA = {
   "Docker",
   "Kubernetes",
   "Java",
-  "C++",
+    "C++",
+  "Ruby",
   "Azure",
   "Google Cloud",
   "Business Intelligence",
@@ -39,7 +40,8 @@ export const DATA = {
   "Deep Learning",
   "Cloud Engineering",
   "UX Design",
-  "Digital Marketing"
+  "Digital Marketing",
+    "ShadCN UI"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" }
@@ -63,7 +65,7 @@ export const DATA = {
       },
       Medium: {
         name: "Medium",
-        url: "https://medium.com/@syed_abdul_muqeeth",
+        url: "https://medium.com/@syedmoinuddin106",
         icon: Icons.medium,
         navbar: true,
       },
