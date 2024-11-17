@@ -21,7 +21,7 @@ export default function Page() {
      <Head>
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-32x32.png" />
         <link rel="manifest" href="/site.webmanifest" />
         <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000" />
         <meta name="msapplication-TileColor" content="#603cba" />
@@ -37,8 +37,8 @@ export default function Page() {
 
         {/* Twitter Card Meta Tags */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Syed Abdul Muqeeth's Portfolio" />
-        <meta name="twitter:description" content="Showcasing innovative projects and creative work in web development, design, and technology." />
+        <meta name="twitter:title" content="Syed Moinuddin Portfolio" />
+        <meta name="twitter:description" content="Unleashing bold projects and game-changing work in web dev, design, and tech." />
         <meta name="twitter:image" content="/twitter-image.jpg" />
     </Head>
     <main className="flex flex-col min-h-[100dvh] space-y-10">
