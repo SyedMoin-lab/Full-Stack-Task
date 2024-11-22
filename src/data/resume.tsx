@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Syed Moinuddin - Portfolio",
   initials: "Syed",
-  url: "https://syed-seven.vercel.app/",
+  url: "https://www.linkedin.com/in/syed-moinuddin106/",
   location: "Bengaluru, India",
   locationLink: "https://www.google.com/maps/place/Bengaluru",
   description:
