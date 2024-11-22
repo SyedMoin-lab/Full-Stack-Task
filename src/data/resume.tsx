@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Software Engineer turned digital handyman, crafting smooth experiences and fixing all the “impossible” problems you didn’t know you had.",
   summary:
-    "Exploring the mysteries of Cosmology while mastering Spline and Unreal Engine. Open for SaaS partnerships and always down for a good conversation on AI, Quantum Computing, and Cybersecurity.",
+    "At the end of 2022, I swapped my “nine-to-five” for the thrill of freelancing, cranking out 14+ projects and counting. Now, I build things that don’t just work, but actually make people go, “Wow, that’s smooth!”",
   avatarUrl: "/1011.jpg",
   skills: [
   "React",
@@ -23,7 +23,7 @@ export const DATA = {
   "Docker",
   "Kubernetes",
   "Java",
-    "C++",
+  "C++",
   "Ruby",
   "Azure",
   "Google Cloud",
@@ -41,7 +41,8 @@ export const DATA = {
   "Cloud Engineering",
   "UX Design",
   "Digital Marketing",
-    "ShadCN UI"
+    "ShadCN UI",
+  "Wordpress"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" }
