@@ -87,8 +87,8 @@ export const DATA = {
 
   work: [
     {
-      company: "CineFirm",
-      href: "https://cinefirm.in",
+      company: "Ubiquity Research Ltd",
+      href: "#",
       badges: [],
       location: "Bengaluru, Karnataka, India · Remote",
       title: "Full Stack Developer",
