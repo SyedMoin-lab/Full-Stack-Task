@@ -8,7 +8,7 @@ export const DATA = {
   location: "Bengaluru, India",
   locationLink: "https://www.google.com/maps/place/Bengaluru",
   description:
-    "Moving into a pause, full stops? Nobody’s a fan of those.",
+    "Software Engineer turned digital handyman, crafting smooth experiences and fixing all the “impossible” problems you didn’t know you had.",
   summary:
     "Exploring the mysteries of Cosmology while mastering Spline and Unreal Engine. Open for SaaS partnerships and always down for a good conversation on AI, Quantum Computing, and Cybersecurity.",
   avatarUrl: "/1011.jpg",
